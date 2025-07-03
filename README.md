@@ -17,6 +17,6 @@
 
 ![front](https://skillicons.dev/icons?i=py,django,flask)  
 
-### Infla
+### Infla,Tools
 
 ![front](https://skillicons.dev/icons?i=docker,github,vercel,aws,vscode)  
